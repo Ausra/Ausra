@@ -17,7 +17,7 @@ The app is now in beta and available for TestFlight users.
 
 ### Recipe Demo app
 
-📱 A [DownloadRecipe](https://github.com/Ausra/DownloadRecipeAppDemo) demo app to showcase the above two packages.
+📱 A [DownloadRecipe](https://github.com/Ausra/DownloadRecipeAppDemo) demo app to showcases the above two packages.
 
 ### Recipe Manager app (private project)
 - 📱 A user-friendly iOS app for managing recipes, creating shopping lists, and planning meals.
