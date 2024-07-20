@@ -9,17 +9,31 @@ The app is now in beta and available for TestFlight users.
 
 ## Projects
 
-### Recipe Manager app
+### RecipeScraper package
+  📦 [RecipeScraper](https://github.com/Ausra/RecipeScraper) is an open source Swift package designed for scraping recipe data from web pages and return a parsed recipe struct with predefined propreties. It uses the SwiftSoup package for HTML parsing and JSONLDDecoder for decoding JSON-LD structured data embedded within web pages.
+
+### JSONLDDecoder package
+📦 [JSONLDDecoder](https://github.com/Ausra/JSONLDDecoder) is an open source Swift package that provides utilities for decoding JSON-LD data structures, specifically tailored for json object that fits [Schema.org > Recipe](https://schema.org/Recipe) shape. 
+
+### Recipe Demo app
+
+📱 A [DownloadRecipe](https://github.com/Ausra/DownloadRecipeAppDemo) demo app to showcase the above two packages.
+
+### Recipe Manager app (private project)
 - 📱 A user-friendly iOS app for managing recipes, creating shopping lists, and planning meals.
  - 🚀 Currently in beta on TestFlight. 
  - 🛠️ Built with Swift, SwiftUI, and SwiftData.
 
-### RecipeScraper package
-  📦 [RecipeScraper](https://github.com/Ausra/RecipeScraper) is an open source Swift package designed for asynchronous scraping of recipe data from web pages and return a parsed recipe struct with predefined propreties. It uses the SwiftSoup package for HTML parsing and JSONLDDecoder for decoding JSON-LD structured data embedded within web pages.
+## Recipe Manager app demo videos
 
-### JSONLDDecoder package
-📦 [JSONLDDecoder](https://github.com/Ausra/JSONLDDecoder) is an open sourced Swift package provides utilities for decoding JSON-LD data structures, specifically tailored for json object that fits [Schema.org > Recipe](https://schema.org/Recipe) shape. The package includes a JSON decoder and several property wrappers to handle nested objects and arrays in a flexible manner.
-      
+https://github.com/user-attachments/assets/01f140c8-f847-4c1d-8923-a8a52fbd0d7a
+
+https://github.com/user-attachments/assets/f122b78b-53d1-48de-9a46-dde8f9cdb271
+
+https://github.com/user-attachments/assets/e4a1a2a3-a986-4de0-9910-3782f17811f7
+
+https://github.com/user-attachments/assets/c5882951-7cd4-4e85-82a8-49539ef1effd
+
 
 ## Skills
  - **Languages**: Swift, JavaScript, Typescript, HTML, CSS
