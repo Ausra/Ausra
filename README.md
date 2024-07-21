@@ -10,10 +10,10 @@ The app is now in beta and available for TestFlight users.
 ## Projects
 
 ### RecipeScraper package
-  📦 [RecipeScraper](https://github.com/Ausra/RecipeScraper) is an open source Swift package designed for scraping recipe data from web pages and return a parsed recipe struct with predefined propreties. It uses the SwiftSoup package for HTML parsing and JSONLDDecoder for decoding JSON-LD structured data embedded within web pages.
+  📦 [RecipeScraper](https://github.com/Ausra/RecipeScraper) is an open source Swift package designed for scraping recipe data from web pages and return a parsed recipe struct with predefined propreties.
 
 ### JSONLDDecoder package
-📦 [JSONLDDecoder](https://github.com/Ausra/JSONLDDecoder) is an open source Swift package that provides utilities for decoding JSON-LD data structures, specifically tailored for json object that fits [Schema.org > Recipe](https://schema.org/Recipe) shape. 
+📦 [JSONLDDecoder](https://github.com/Ausra/JSONLDDecoder) is an open source Swift package that provides property wrappers for decoding JSON-LD data structures, specifically tailored for json object that fits [Schema.org > Recipe](https://schema.org/Recipe) shape. 
 
 ### Recipe Demo app
 
