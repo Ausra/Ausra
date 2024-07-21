@@ -3,7 +3,7 @@
 
 ### iOS Engineer
 
-With several years of experience in Front End technologies, I've transitioned to iOS Development. I'm currently learning my ways around Swift, SwiftUI and SwiftData while working on my personal project. It's a recipe manager app for iOS that helps you collect recipes from the web, arrange them into collections, create shopping lists, and plan meals for the days ahead.
+With several years of experience in Front End technologies, I've transitioned to iOS Development. I'm currently learning my way around Swift, SwiftUI and SwiftData while working on my personal project. It's a recipe manager app for iOS that helps you collect recipes from the web, arrange them into collections, create shopping lists, and plan meals for the days ahead.
 
 The app is now in beta and available for TestFlight users.
 
